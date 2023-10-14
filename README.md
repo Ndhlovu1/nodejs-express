@@ -13,5 +13,5 @@ node -v
 ```shell
 node file_name
 ```
-
+4. Visit the browser and type the path with the specified port number
 
